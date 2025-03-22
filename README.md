@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm [Your Name]  
+# 👋 Hey there, I'm [Uyanda]  
 
 ## 🚀 About Me  
 I'm a **second-year BSc IT student** at **Richfield Bryanston campus**, majoring in **software development**. Passionate about **web development, cloud computing, and data science**, I'm constantly learning and working on projects that help me grow as a developer.  
