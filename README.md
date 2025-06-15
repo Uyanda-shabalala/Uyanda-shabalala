@@ -22,14 +22,6 @@ I'm a **second-year BSc IT student** at **Richfield Bryanston campus**, majoring
 ---
 
 ## 📌 Projects  
-### **💰 Currency Converter**  
-- A simple **currency conversion tool** using **HTML, CSS, and JavaScript**.  
-- Dynamically calculates converted amounts based on exchange rates.  
-
-### **🎟️ Invitation & RSVP Page**  
-- Interactive **event invitation page** with RSVP form handling using **JavaScript**.  
-- Stores user input and updates the UI dynamically.  
-
 ### **⚽ VAR Impact in Modern Football** *(Group Project)*  
 - A research-based project on the **accuracy of Video Assistant Referee (VAR) calls**.  
 - Explored **data analysis techniques** to predict the frequency of incorrect decisions.  
@@ -45,12 +37,11 @@ I'm a **second-year BSc IT student** at **Richfield Bryanston campus**, majoring
 📖 Studying for:  
 - **AWS Cloud Practitioner Certification**  
 - **Python,Javascript Certification (Future Goal)**  
-- **Advanced CSS & JavaScript**  
+- **Advanced CSS & JavaScript**
+- **Learning new frameworks and technologies**
 
 📈 Improving in:  
 - **C++ programming**  
-- **Probability & statistics for data science**  
-- **Machine learning concepts & visualization (Matplotlib, Seaborn)**
 - **Css, Javascript**  
 
 ---
