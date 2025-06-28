@@ -5,7 +5,7 @@ I'm a **second-year BSc IT student** at **Richfield Bryanston campus**, majoring
 
 💻 Currently improving in **C++ and PHP** while strengthening my **Python and JavaScript** skills.  
 ☁️ Preparing for my **AWS Cloud Practitioner certification** to expand my cloud knowledge.  
-📊 Interested in **data science & machine learning**, focusing on statistics and probability.  
+  
 
 ---
 
