@@ -1,7 +1,7 @@
 # 👋 Hey there, I'm [Uyanda]  
 
 ## 🚀 About Me  
-I'm a **second-year BSc IT student** at **Richfield Bryanston campus**, majoring in **software development**. Passionate about **web development, cloud computing**, I'm constantly learning and working on projects that help me grow as a developer.  
+I'm a **BSc IT student**, majoring in **software development**. Passionate about **web development, cloud computing**, I'm constantly learning and working on projects that help me grow as a developer.  
 
 💻 Currently improving in **C++ and PHP** while strengthening my **Python and JavaScript** skills.  
 ☁️ Preparing for my **AWS Cloud Practitioner certification** to expand my cloud knowledge.  
