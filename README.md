@@ -3,7 +3,7 @@
 ## 🚀 About Me  
 I'm a **BSc IT student**, majoring in **software development**. Passionate about **web development, cloud computing**, I'm constantly learning and working on projects that help me grow as a developer.  
 
-💻 Currently improving in **C++ and PHP** while strengthening my **Python and JavaScript** skills.  
+💻 Currently improving in **PHP** while strengthening my **Python and JavaScript** skills.  
 ☁️ Preparing for my **AWS Cloud Practitioner certification** to expand my cloud knowledge.  
   
 
@@ -11,8 +11,8 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 
 ## 🔧 Tech Stack & Skills  
 ### **Languages & Frameworks**  
-- **Proficient**: HTML, Css,JavaScript, Python (Basic), SQL  
-- **Currently Learning**: C++, PHP, CSS(Responsive Design) ,REACT, AWS Cloud  
+- **Proficient**: HTML, Css,JavaScript, Python, SQL  
+- **Currently Learning**: PHP, CSS(Responsive Design) ,REACT,C#, AWS Cloud  
 
 ### **Tools & Platforms**  
 - **Code Editor**: Visual Studio Code, Code::Blocks  
@@ -22,14 +22,6 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 ---
 
 ## 📌 Projects  
-### **⚽ VAR Impact in Modern Football** *(Group Project)*  
-- A research-based project on the **accuracy of Video Assistant Referee (VAR) calls**.  
-- Explored **data analysis techniques** to predict the frequency of incorrect decisions.  
-
-### **🎨 KP Vinyl Wraps Website (In Progress)**  
-- A personal project to **build a business website** for a vinyl wrapping company.  
-- Tech stack: **HTML, CSS, JavaScript (minor)**.  
-- Learning experience in **CSS responsive design & media queries**.  
 
 ---
 
@@ -41,7 +33,7 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 - **Learning new frameworks and technologies**
 
 📈 Improving in:  
-- **C++ programming**  
+- **PHP laravel**  
 - **Css, Javascript**  
 
 ---
