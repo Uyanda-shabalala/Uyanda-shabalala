@@ -12,10 +12,10 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 ## 🔧 Tech Stack & Skills  
 ### **Languages & Frameworks**  
 - **Proficient**: HTML, Css,JavaScript, Python, SQL  
-- **Currently Learning**: PHP, CSS(Responsive Design) ,REACT,C#, AWS Cloud  
+- **Currently Learning**: PHP,React, AWS Cloud  
 
 ### **Tools & Platforms**  
-- **Code Editor**: Visual Studio Code, Code::Blocks  
+- **Code Editor**: Visual Studio Code
 - **Cloud**: AWS (currently studying for certification)  
 - **Version Control**: Git & GitHub  
 
