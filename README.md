@@ -12,7 +12,7 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 ## 🔧 Tech Stack & Skills  
 ### **Languages & Frameworks**  
 - **Proficient**: HTML, Css,JavaScript, Python, SQL  
-- **Currently Learning**: PHP,React, AWS Cloud  
+- **Currently Learning**: PHP,Python , Java, AWS Cloud  
 
 ### **Tools & Platforms**  
 - **Code Editor**: Visual Studio Code
@@ -33,7 +33,7 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 - **Learning new frameworks and technologies**
 
 📈 Improving in:  
-- **PHP laravel**  
+- **Python**
 - **Css, Javascript**  
 
 ---
