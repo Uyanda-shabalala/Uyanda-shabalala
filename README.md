@@ -3,15 +3,13 @@
 ## 🚀 About Me  
 I'm a **BSc IT student**, majoring in **software development**. Passionate about *Software development, cloud computing**, I'm constantly learning and working on projects that help me grow as a developer.  
 
-💻 Currently improving in **Java** while strengthening my **C# and PHP** skills.  
-  
 
 ---
 
 ## 🔧 Tech Stack & Skills  
 ### **Languages & Frameworks**  
 - **Proficient**: HTML, Css,JavaScript, Python, SQL  
-- **Currently Learning**: PHP,Python , Java, AWS Cloud  
+- **Currently Learning**: PHP,Python , Java,C#  
 
 ### **Tools & Platforms**  
 - **Code Editor**: Visual Studio Code, IntelliJ
@@ -21,16 +19,6 @@ I'm a **BSc IT student**, majoring in **software development**. Passionate about
 ---
 
 ## 📌 Projects  
-
----
-
-## 📜 Certifications & Goals  
-📖 Studying for:  
-- **AWS Cloud Practitioner Certification**  
-- **Python,Javascript Certification (Future Goal)**  
-- **Advanced CSS & JavaScript**
-- **Learning new frameworks and technologies**
-
 
 ---
 
