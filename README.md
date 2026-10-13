@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="assets/profile-banner.svg" alt="Uyanda Shabalala — Software developer. From an idea to something you can use." width="100%" />
-</p>
 
 <p align="center"><strong>BSc IT student &nbsp; / &nbsp; Software developer &nbsp; / &nbsp; Cloud curious</strong></p>
 
@@ -16,7 +13,7 @@
 
 I'm **Uyanda**. I like turning practical problems into software people can use: a place for students to connect, a way to report a broken streetlight, or a better way to keep track of devices.
 
-I'm studying **BSc IT with a focus on software development**. My projects span web applications, Java, and database-backed systems, and I'm continuing to explore Python and AWS along the way.
+I'm studying **BSc IT with a focus on software development**. I use **Java, Python, C#, and web technologies** to build applications and work with data, and I'm continuing to explore AWS and cloud computing along the way.
 
 **Build something. Understand it. Make it better.**
 
@@ -35,7 +32,7 @@ A civic reporting platform for South African communities, built with **Team Bina
 
 `React` `JavaScript` `Tailwind CSS` `Supabase`
 
-🛠️ **In development** — councillor workflows and community feedback are still being developed.
+🛠️ **In development** — a **Java backend is planned**, alongside ongoing work on councillor workflows and community feedback.
 
 [Explore Civix →](https://github.com/Uyanda-shabalala/civix-app)
 
@@ -77,9 +74,9 @@ A Java application that models students, staff, and events, with registration, w
 
 A team project exploring device inventory and insurance tracking, with device capture, browser-based storage, and a configurable OCR connection.
 
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+`Next.js` `React` `TypeScript` `Tailwind CSS` `Java` `Spring Boot`
 
-🧪 **Prototype** — includes an OCR demo fallback and a Spring Boot backend scaffold; production backend integration is in progress.
+🧪 **Prototype** — includes an OCR demo fallback and a Java / Spring Boot backend scaffold; production backend integration is in progress.
 
 [Explore Insure-It →](https://github.com/Uyanda-shabalala/Insure-It)
 
@@ -91,7 +88,7 @@ A team project exploring device inventory and insurance tracking, with device ca
 
 ## 🧰 The toolbox
 
-Technologies you'll find across these projects:
+Languages and technologies I work with:
 
 **Interfaces & interaction**
 
@@ -104,13 +101,15 @@ Technologies you'll find across these projects:
 **Logic & data**
 
 ![Java](https://img.shields.io/badge/Java-F97316?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-111827?style=for-the-badge&logo=supabase&logoColor=3FCF8E)
 
 **Everyday tools:** Git · GitHub · Vite · Visual Studio Code · IntelliJ IDEA  
-**Still exploring:** Python · AWS · Cloud computing
+**Still exploring:** AWS · Cloud computing
 
 <br />
 
